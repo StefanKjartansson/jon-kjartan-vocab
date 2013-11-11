@@ -4,22 +4,43 @@ Listi yfir orðaforða Jóns Kjartans
 
 ### Núverandi orðaforði
 
+#### Fólk
+
 * Mamma
 * Pabbi
-* Dudda
-* Datt
-* Kisa
 * Krakkar
-* Ljósið
-* Bað
-* Nei
 * Afi
 * Amma
+
+#### Hlutir
+
+* Dudda
+* Ljósið
+* Bað
+* Bolti
+
+#### Sagnir
+
+* Datt
+* Borða
+
+#### Dýr
+
+* Kisa
+
+#### Líkamshlutir
+
 * Typpi
 * Tása
+* Nebbi
+
+#### Matur
+
 * Ostur
 * Brauð
 * Namm namm
-* Nebbi
-* Bolti
+
+#### Annað
+
+* Nei
 * Takk
