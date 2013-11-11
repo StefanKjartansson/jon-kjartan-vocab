@@ -44,3 +44,4 @@ Listi yfir orðaforða Jóns Kjartans
 
 * Nei
 * Takk
+* Úti
