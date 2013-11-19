@@ -23,6 +23,7 @@ Listi yfir orðaforða Jóns Kjartans
 
 * Datt
 * Borða
+* Súpa
 
 #### Dýr
 
