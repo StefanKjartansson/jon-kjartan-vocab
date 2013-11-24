@@ -40,6 +40,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Ostur
 * Brauð
 * Namm namm
+* Kjöt
 
 #### Annað
 
