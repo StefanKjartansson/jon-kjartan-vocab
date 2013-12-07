@@ -43,6 +43,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Brauð
 * Namm namm
 * Kjöt
+* Biti
 
 #### Annað
 
