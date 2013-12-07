@@ -11,6 +11,8 @@ Listi yfir orðaforða Jóns Kjartans
 * Krakkar
 * Afi
 * Amma
+* Edda
+* Úlfur
 
 #### Hlutir
 
@@ -48,3 +50,4 @@ Listi yfir orðaforða Jóns Kjartans
 * Takk
 * Úti
 * Bæbæ
+* Bless
