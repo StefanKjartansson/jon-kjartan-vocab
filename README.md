@@ -26,6 +26,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Datt
 * Borða
 * Súpa
+* Hoppa
 
 #### Dýr
 
@@ -52,3 +53,4 @@ Listi yfir orðaforða Jóns Kjartans
 * Úti
 * Bæbæ
 * Bless
+* Þetta
