@@ -47,6 +47,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Kjöt
 * Biti
 * Epli
+* Pera
 
 #### Annað
 
