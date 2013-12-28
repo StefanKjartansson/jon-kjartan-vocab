@@ -13,6 +13,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Amma
 * Edda
 * Úlfur
+* Eiður
 
 #### Hlutir
 
@@ -45,6 +46,7 @@ Listi yfir orðaforða Jóns Kjartans
 * Namm namm
 * Kjöt
 * Biti
+* Epli
 
 #### Annað
 
